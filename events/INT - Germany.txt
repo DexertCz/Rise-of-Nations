@@ -242,8 +242,8 @@ country_event = {
 	}
 
 	# mean_time_to_happen= {
-		days = 1
-	}
+	#	days = 1
+	#}
 
 	option = {
 		name = ww2_germany.19.a
@@ -271,8 +271,8 @@ country_event = {
 	}
 
 	# mean_time_to_happen= {
-		days = 1
-	}
+	#	days = 1
+	#}
 
 	option = {
 		name = ww2_germany.20.a
@@ -300,8 +300,8 @@ country_event = {
 	}
 
 	# mean_time_to_happen= {
-		days = 1
-	}
+	#	days = 1
+	#}
 
 	option = {
 		name = ww2_germany.21.a
@@ -352,8 +352,8 @@ country_event = {
 	}
 
 	# mean_time_to_happen= {
-		days = 1
-	}
+	#	days = 1
+	#}
 
 	option = {
 		name = ww2_germany.23.a
@@ -378,8 +378,8 @@ country_event = {
 	}
 
 	# mean_time_to_happen= {
-		days = 1
-	}
+	#	days = 1
+	#}
 
 	option = {
 		name = ww2_germany.24.a
@@ -404,8 +404,8 @@ country_event = {
 	}
 
 	# mean_time_to_happen= {
-		days = 1
-	}
+	#	days = 1
+	#}
 
 	option = {
 		name = ww2_germany.25.a
@@ -430,8 +430,8 @@ country_event = {
 	}
 
 	# mean_time_to_happen= {
-		days = 1
-	}
+	#	days = 1
+	#}
 
 	option = {
 		name = ww2_germany.26.a
@@ -487,8 +487,8 @@ country_event = {
 	}
 
 	# mean_time_to_happen= {
-		days = 1
-	}
+	#	days = 1
+	#}
 
 	option = {
 		name = ww2_germany.29.a
@@ -511,8 +511,8 @@ country_event = {
 	}
 
 	# mean_time_to_happen= {
-		days = 1
-	}
+	#	days = 1
+	#}
 
 	option = {
 		name = ww2_germany.30.a
@@ -539,8 +539,8 @@ country_event = {
 	}
 
 	# mean_time_to_happen= {
-		days = 1
-	}
+	#	days = 1
+	#}
 
 	option = {
 		name = ww2_germany.31.a
@@ -607,8 +607,8 @@ country_event = {
 	}
 
 	# mean_time_to_happen= {
-		days = 1
-	}
+		#3days = 1
+	#}
 
 	option = {
 		name = INT_germany.2.a

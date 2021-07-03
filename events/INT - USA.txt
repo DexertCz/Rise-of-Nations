@@ -20,8 +20,8 @@ country_event = {
 	}
 
 	# mean_time_to_happen= {
-		days = 1
-	}
+	#	days = 1
+	#}
 
 	option = {
 		name = int_usa.1.a
@@ -44,8 +44,8 @@ country_event = {
 	}
 
 	# mean_time_to_happen= {
-		days = 1
-	}
+	#	days = 1
+	#}
 
 	option = {
 		name = int_usa.2.a
@@ -68,8 +68,8 @@ country_event = {
 	}
 
 	# mean_time_to_happen= {
-		days = 1
-	}
+	#	days = 1
+	#}
 
 	option = {
 		name = int_usa.3.a
@@ -94,8 +94,8 @@ country_event = {
 	}
 
 	# mean_time_to_happen= {
-		days = 1
-	}
+	#	days = 1
+	#}
 
 	option = {
 		name = int_usa.4.a
@@ -136,8 +136,8 @@ country_event = {
 	}
 
 	# mean_time_to_happen= {
-		days = 1
-	}
+	#	days = 1
+	#}
 
 	option = {
 		name = int_usa.6.a
@@ -160,8 +160,8 @@ country_event = {
 	}
 
 	# mean_time_to_happen= {
-		days = 1
-	}
+	#	days = 1
+	#}
 
 	option = {
 		name = int_usa.7.a
@@ -184,8 +184,8 @@ country_event = {
 	}
 
 	# mean_time_to_happen= {
-		days = 1
-	}
+	#	#days = 1
+	#}
 
 	option = {
 		name = int_usa.8.a
@@ -208,8 +208,8 @@ country_event = {
 	}
 
 	# mean_time_to_happen= {
-		days = 1
-	}
+	#	days = 1
+	#}
 
 	option = {
 		name = int_usa.9.a
@@ -232,8 +232,8 @@ country_event = {
 	}
 
 	# mean_time_to_happen= {
-		days = 1
-	}
+	#	days = 1
+	#}
 
 	option = {
 		name = int_usa.10.a
@@ -256,8 +256,8 @@ country_event = {
 	}
 
 	# mean_time_to_happen= {
-		days = 1
-	}
+	#	days = 1
+	#}
 
 	option = {
 		name = int_usa.11.a
@@ -281,8 +281,8 @@ country_event = {
 	}
 
 	# mean_time_to_happen= {
-		days = 1
-	}
+	#	days = 1
+	#}#
 
 	option = {
 		name = int_usa.12.a
@@ -305,8 +305,8 @@ country_event = {
 	}
 
 	# mean_time_to_happen= {
-		days = 1
-	}
+	#	days = 1
+	#}
 
 	option = {
 		name = int_usa.13.a

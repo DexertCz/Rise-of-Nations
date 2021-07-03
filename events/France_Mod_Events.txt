@@ -13,8 +13,8 @@ news_event = {
     is_triggered_only = yes
 
 	# mean_time_to_happen= {
-		days = 1
-	}
+	#	days = 1
+	#}
 
     option = {
 		name = worldnews.1.a
@@ -31,8 +31,8 @@ news_event = {
     is_triggered_only = yes
 
 	# mean_time_to_happen= {
-		days = 1
-	}
+	#	days = 1
+	#}
 
     option = {
 		name = worldnews.2.a
@@ -49,8 +49,8 @@ news_event = {
     is_triggered_only = yes
 
 	# mean_time_to_happen= {
-		days = 1
-	}
+	#	days = 1
+	#}
 
     option = {
 		name = worldnews.3.a
@@ -67,8 +67,8 @@ news_event = {
     is_triggered_only = yes
 
 	# mean_time_to_happen= {
-		days = 1
-	}
+	#	days = 1
+	#}
 
     option = {
 		name = worldnews.4.a
@@ -98,8 +98,8 @@ immediate = {
 }
 
 # mean_time_to_happen= {
-	days = 7
-}
+#	days = 7
+#}
 	option = { name = worldnews.5.a }
 }
 

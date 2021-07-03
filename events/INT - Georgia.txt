@@ -20,8 +20,8 @@ country_event = {
 	}		
 
 	# mean_time_to_happen= { 
-		days = 1
-	}
+	#	days = 1
+	#}
 
 	option = {
 		name = georgia.1.a
@@ -44,8 +44,8 @@ country_event = {
 	}		
 
 	# mean_time_to_happen= { 
-		days = 1
-	}
+	#	days = 1
+	#}
 
 	option = {
 		name = georgia.2.a
@@ -71,8 +71,8 @@ country_event = {
 	}		
 
 	# mean_time_to_happen= { 
-		days = 1
-	}
+	#	days = 1
+	#}
 
 	option = {
 		name = georgia.3.a

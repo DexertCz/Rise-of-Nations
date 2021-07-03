@@ -782,7 +782,7 @@ country_event = {
 
 	# mean_time_to_happen= { days = 1
 
-	}
+	
 	option = {
 		name = interwar_soviet.36.a
 		news_event = { hours = 6 id = endsieg_news.9 }
@@ -813,7 +813,6 @@ country_event = {
 
 	# mean_time_to_happen= { days = 1
 
-	}
 	option = {
 		name = interwar_soviet.37.a
 		news_event = { hours = 6 id = endsieg_news.16 }
@@ -844,7 +843,7 @@ country_event = {
 
 	# mean_time_to_happen= { days = 1
 
-	}
+	
 	option = {
 		name = interwar_soviet.38.a
 		news_event = { hours = 6 id = endsieg_news.43 }
@@ -878,8 +877,8 @@ country_event = {
 	}
 
 	# mean_time_to_happen= {
-		days = 1
-	}
+	# days = 1
+	#}
 
 	option = {
 		name = interwar_soviet.39.a
@@ -926,8 +925,8 @@ country_event = {
 	}
 
 	# mean_time_to_happen= {
-		days = 1
-	}
+	#	days = 1
+	#}
 
 	option = {
 		name = interwar_soviet.40.a
@@ -957,8 +956,8 @@ country_event = {
 	}
 
 	# mean_time_to_happen= {
-		days = 1
-	}
+		#days = 1
+	#}
 
 	option = {
 		name = interwar_soviet.41.a

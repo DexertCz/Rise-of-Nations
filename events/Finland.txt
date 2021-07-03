@@ -121,8 +121,8 @@ country_event = {
 	}
 
 	# mean_time_to_happen= {
-		days = 1
-	}
+	#	days = 1
+	#}
 
 	option = {
 		name = finland.2.a
@@ -451,8 +451,8 @@ country_event = {
 	is_triggered_only = yes
 	
 	# mean_time_to_happen= {
-		days = 2	
-	}
+	#	days = 2	
+	#}
 	
 	option = {
 		name = finland.81.a
@@ -2328,8 +2328,8 @@ news_event = {
 	}
 	
 	# mean_time_to_happen= {
-		days = 2
-	}
+	#	days = 2
+	#}
 	
 	option = {
 		name = finland.1010.a

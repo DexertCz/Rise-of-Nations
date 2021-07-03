@@ -41,7 +41,7 @@ news_event = {
 		name = ron_coupnews.3.a
 	}
 }
-
+  
 # Super Early Coup Crushed
 news_event = {
 	id = ron_coupnews.4

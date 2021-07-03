@@ -20,8 +20,8 @@ country_event = {
     }
 
     # mean_time_to_happen= {
-        days = 3
-    }
+    #    days = 3
+    #}
 
     option = {
         name = bs_fra.1.a

@@ -3250,8 +3250,8 @@ country_event = {
 	}
 	
 	# mean_time_to_happen= {
-		days = 45
-	}
+#		days = 45
+	#}
 	
 	option = {
 		name = BP_germany.510.a
@@ -3344,8 +3344,8 @@ country_event = {
 	}
 	
 	# mean_time_to_happen= {
-		days = 90
-	}
+	#	days = 90
+	#}
 	
 	option = {
 		name = BP_germany.512.a				
@@ -3758,8 +3758,8 @@ country_event = {
 	}
 	
 	# mean_time_to_happen= {
-		days = 70
-	}
+	#	days = 70
+	#}
 	
 	option = {
 		name = BP_germany.519.a	
@@ -3891,8 +3891,8 @@ country_event = {
 	}
 
 	# mean_time_to_happen= {
-		days = 250
-	}
+#		days = 250
+	#}
 	
 	option = {
 		name = BP_germany.525.a

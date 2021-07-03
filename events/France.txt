@@ -1610,7 +1610,7 @@ country_event = {
 		has_country_leader = { ruling_only = yes name = "Jean d'Orléans" }
 	}
 
-	# mean_time_to_happen= {
+	 mean_time_to_happen= {
 		days = 1200	# Died in 1940
 	}
 	
@@ -2021,8 +2021,8 @@ country_event = {
 	}
 	
 	# mean_time_to_happen= {
-		days = 2
-	}
+	#	days = 2
+	#}
 
 	immediate = {
 		set_global_flag = achievement_france_surrender
@@ -2883,8 +2883,8 @@ country_event = {
 	}
 	
 	# mean_time_to_happen= {
-		days = 4
-	}
+	#	days = 4
+	#}
 
 	option = {
 		name = france.16.a
@@ -3334,7 +3334,7 @@ country_event = {
 		}
 	}
 	
-	# mean_time_to_happen= {
+	 mean_time_to_happen= {
 		months = 1
 	}
 

@@ -292,8 +292,14 @@ country_event = {
 		is_ai = yes
 		has_political_power > 50
 		has_idea = USA_robert_taft
-		NOT = { has_idea = omar_bradley has_idea = george_patton }
-		OR = { check_variable = { EAI_FOCUS/LAND/land_doctrine = global.EAI_MW_DOCTRINE } check_variable = { EAI_FOCUS/LAND/land_doctrine = global.EAI_SF_DOCTRINE } }
+		NOT = { 
+			has_idea = omar_bradley
+			 has_idea = george_patton 
+			}
+		OR = {
+			check_variable = { EAI_FOCUS/LAND/land_doctrine = global.EAI_MW_DOCTRINE }
+			check_variable = { EAI_FOCUS/LAND/land_doctrine = global.EAI_SF_DOCTRINE } 
+			}
 	}
 	immediate = {
 		if = { limit = { check_variable = { EAI_USA_advisor_pp < 250 } }

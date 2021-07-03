@@ -5622,8 +5622,8 @@ country_event = {
 	}
 
 	# mean_time_to_happen= {
-		days = 180
-	}
+	#	days = 180
+	#}
 	
 	option = {
 		name = britain.130.a
@@ -6616,8 +6616,8 @@ country_event = {
 	}
 
 	# mean_time_to_happen= {
-		days = 365
-	}
+	#	days = 365
+	#}
 	
 	option = {
 		name = britain.888.a

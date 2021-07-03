@@ -384,16 +384,14 @@ country_event = {
 	desc = election.7.d
 	picture = GFX_report_event_fascist_gathering
 	
-	# mean_time_to_happen= {
+	 mean_time_to_happen= {
 		days = 730
 	}
 
 	trigger = {
 		NOT = { 
-			AND = { 
-				tag = USA 
-				date < 1949.1.1
-			} 
+			tag = USA 
+			date < 1949.1.1 
 		}
 		OR = { NOT = { tag = SPR } NOT = { date < 1937.1.1 } }
 		has_government = democratic
@@ -457,7 +455,7 @@ country_event = {
 	desc = election.8.d
 	picture = GFX_report_event_worker_protests
 	
-	# mean_time_to_happen= {
+	 mean_time_to_happen= {
 		days = 730
 	}
 
