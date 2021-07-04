@@ -555,6 +555,8 @@ country_event = {
 	trigger = {
 		has_global_flag = no_kolchak
 		tag = MON
+		date > 1919.1.1
+		date < 1924.1.1
 	}
 
 	# mean_time_to_happen= { days = 90 }
@@ -694,8 +696,8 @@ country_event = {
 	}
 
 	# mean_time_to_happen= {
-		days = 1
-	}
+	#	days = 1
+	#}
 
 	option = {
 		name = interwar_white_russia.34.a
@@ -737,8 +739,8 @@ country_event = {
 	}
 
 	# mean_time_to_happen= {
-		days = 1
-	}
+	#	days = 1
+	#}
 
 	option = {
 		name = interwar_white_russia.35.a
@@ -862,6 +864,8 @@ country_event = {
 	trigger = {
 		has_global_flag = BOC_denikin_victory
 		tag = WHR
+		date > 1919.1.1 
+		date < 1933.1.1
 	}
 
 	# mean_time_to_happen= { days = 15 }

@@ -789,8 +789,8 @@ country_event = {
 	}
 
 	# mean_time_to_happen= {
-		days = 10
-	}
+	#	days = 10
+	#}
 	
 	option = {
 		name = italy.25.a
@@ -857,8 +857,8 @@ country_event = {
 	}
 
 	# mean_time_to_happen= {
-		days = 10
-	}
+	#	days = 10
+	#}
 	
 	option = {
 		name = italy.26.a
@@ -993,8 +993,8 @@ country_event = {
 	}
 
 	# mean_time_to_happen= {
-		days = 10
-	}
+	#	days = 10
+	#}
 	
 	option = {
 		name = italy.28.a
@@ -1061,8 +1061,8 @@ country_event = {
 	}
 
 	# mean_time_to_happen= {
-		days = 10
-	}
+	#	days = 10
+	#}
 	
 	option = {
 		name = italy.29.a
@@ -1659,8 +1659,8 @@ country_event = {
 	}
 
 	# mean_time_to_happen= {
-		days = 10
-	}
+	#	days = 10
+#	}
 	
 	option = {
 		name = italy.39.a
@@ -1786,7 +1786,7 @@ country_event = {
 		NOT = { has_war_with = GRE }
 	}
 	
-	# mean_time_to_happen= {
+	 mean_time_to_happen= {
 		days = 50
 	}
 	
@@ -2192,7 +2192,7 @@ news_event = {
 	 	is_puppet = no
 	}
 	
-	# mean_time_to_happen= {
+	 mean_time_to_happen= {
 		days = 50
 	}
 	
@@ -2623,8 +2623,8 @@ country_event = {
 	}
 	
 	# mean_time_to_happen= {
-		days = 10
-	}
+	#	days = 10
+	#}
 	
 	
 	option = {
@@ -2722,8 +2722,8 @@ country_event = {
 	}
 	
 	# mean_time_to_happen= {
-		days = 10
-	}
+	#	days = 10
+	#}
 	
 	
 	option = {
@@ -2821,8 +2821,8 @@ country_event = {
 	}
 	
 	# mean_time_to_happen= {
-		days = 10
-	}
+	#	days = 10
+#	}
 	
 	
 	option = {
@@ -2920,8 +2920,8 @@ country_event = {
 	}
 	
 	# mean_time_to_happen= {
-		days = 10
-	}
+	#	days = 10
+#	}
 	
 	
 	option = {
@@ -3019,8 +3019,8 @@ country_event = {
 	}
 	
 	# mean_time_to_happen= {
-		days = 10
-	}
+		#days = 10
+	#}
 	
 	
 	option = {
@@ -3118,8 +3118,8 @@ country_event = {
 	}
 	
 	# mean_time_to_happen= {
-		days = 10
-	}
+	#	days = 10
+	#}
 	
 	
 	option = {
@@ -3216,8 +3216,8 @@ country_event = {
 	}
 	
 	# mean_time_to_happen= {
-		days = 10
-	}
+	#	days = 10
+#	}
 	
 	
 	option = {
@@ -3316,8 +3316,8 @@ country_event = {
 	}
 	
 	# mean_time_to_happen= {
-		days = 10
-	}
+	#	days = 10
+	#}
 	
 	
 	option = {
@@ -3415,8 +3415,8 @@ country_event = {
 	}
 	
 	# mean_time_to_happen= {
-		days = 10
-	}
+	#	days = 10
+	#}
 	
 	
 	option = {
@@ -3763,7 +3763,7 @@ country_event = {
 		has_civil_war = no
 	}
 	
-	# mean_time_to_happen= {
+	 mean_time_to_happen= {
 		days = 200
 	}
 	
@@ -4033,8 +4033,8 @@ country_event = {
 	}
 	
 	# mean_time_to_happen= {
-		days = 1
-	}
+	#	days = 1
+	#}
 	
 	option = {
 		name = italy.96.a
@@ -4143,9 +4143,9 @@ country_event = {
 	}
 	
 	# mean_time_to_happen= {
-		days = 10
-	}
-	
+	#	days = 10
+	#}
+	#
 	
 	option = {
 		name = italy.101.a
@@ -4193,8 +4193,8 @@ country_event = {
 	}
 	
 	# mean_time_to_happen= {
-		days = 10
-	}
+	#	days = 10
+	#}
 	
 	
 	option = {
@@ -4243,8 +4243,8 @@ country_event = {
 	}
 	
 	# mean_time_to_happen= {
-		days = 10
-	}
+	#	days = 10
+	#}
 	
 	
 	option = {
@@ -4293,8 +4293,8 @@ country_event = {
 	}
 	
 	# mean_time_to_happen= {
-		days = 10
-	}
+	#	days = 10
+	#}
 	
 	
 	option = {
@@ -4360,8 +4360,8 @@ country_event = {
 	}
 	
 	# mean_time_to_happen= {
-		days = 5
-	}
+	#	days = 5
+	#}
 	
 	immediate = {
 		random_list = {
@@ -4457,7 +4457,7 @@ country_event = {
 		has_government = communism
 	}
 	
-	# mean_time_to_happen= {
+	 mean_time_to_happen= {
 		days = 75
 	}
 	
@@ -4468,7 +4468,7 @@ country_event = {
 	}
 	
 	option = {
-	
+	name = "Alright!"
 	}
 }
 
@@ -4545,7 +4545,7 @@ country_event = {
 		}
 	}
 	
-	# mean_time_to_happen= {
+	 mean_time_to_happen= {
 		days = 75
 	}
 	
@@ -4557,7 +4557,7 @@ country_event = {
 	}
 	
 	option = {
-	
+	name = "This again ?"
 	}
 }
 
@@ -4577,7 +4577,7 @@ country_event = {
 		}
 	}
 	
-	# mean_time_to_happen= {
+	 mean_time_to_happen= {
 		days = 75
 	}
 	
@@ -4590,7 +4590,7 @@ country_event = {
 	}
 	
 	option = {
-	
+	name = "Disloyal Scum!"
 	}
 }
 
@@ -4608,7 +4608,7 @@ country_event = {
 		}
 	}
 	
-	# mean_time_to_happen= {
+	 mean_time_to_happen= {
 		days = 300
 	}
 	
@@ -6556,7 +6556,7 @@ country_event = {
 		original_tag = YUG
 	}
 	
-	# mean_time_to_happen= {
+	 mean_time_to_happen= {
 		days = 100
 	}
 	
@@ -6731,8 +6731,8 @@ country_event = {
 	}
 	
 	# mean_time_to_happen= {
-		days = 1
-	}
+	#	days = 1
+	#}
 	
 	
 	option = {
@@ -6851,8 +6851,8 @@ country_event = {
 	}
 	
 	# mean_time_to_happen= {
-		days = 10
-	}
+	#	days = 10
+	#}
 	
 	
 	option = {
@@ -6895,8 +6895,7 @@ country_event = {
 	}
 	
 	# mean_time_to_happen= {
-		days = 10
-	}
+	##}
 	
 	
 	option = {
@@ -6939,8 +6938,8 @@ country_event = {
 	}
 	
 	# mean_time_to_happen= {
-		days = 10
-	}
+	#	days = 10
+	#}
 	
 	
 	option = {
@@ -7123,7 +7122,7 @@ country_event = {
 		original_tag = BEL
 	}
 	
-	# mean_time_to_happen= {
+	 mean_time_to_happen= {
 		days = 100
 	}
 	
@@ -7303,7 +7302,7 @@ country_event = {
 		}
 	}
 	
-	# mean_time_to_happen= {
+	 mean_time_to_happen= {
 		days = 150
 	}
 	
@@ -7386,7 +7385,7 @@ country_event = {
 		original_tag = POR
 	}
 	
-	# mean_time_to_happen= {
+	 mean_time_to_happen= {
 		days = 100
 	}
 	
@@ -7565,7 +7564,7 @@ country_event = {
 		}
 	}
 	
-	# mean_time_to_happen= {
+	 mean_time_to_happen= {
 		days = 250
 	}
 	
@@ -7637,7 +7636,7 @@ country_event = {
 		original_tag = ENG
 	}
 	
-	# mean_time_to_happen= {
+	 mean_time_to_happen= {
 		days = 100
 	}
 	
@@ -7829,7 +7828,7 @@ country_event = {
 		}
 	}
 	
-	# mean_time_to_happen= {
+	 mean_time_to_happen= {
 		days = 250
 	}
 	
@@ -8073,7 +8072,7 @@ country_event = {
 		original_tag = ENG
 	}
 	
-	# mean_time_to_happen= {
+	 mean_time_to_happen= {
 		days = 100
 	}
 	
@@ -8252,7 +8251,7 @@ country_event = {
 		}
 	}
 	
-	# mean_time_to_happen= {
+	 mean_time_to_happen= {
 		days = 250
 	}
 	
@@ -8726,7 +8725,7 @@ country_event = {
 		is_subject = no
 	}
 	
-	# mean_time_to_happen= {
+	 mean_time_to_happen= {
 		days = 110
 	}
 	
@@ -8755,7 +8754,7 @@ country_event = {
 		is_subject = no
 	}
 	
-	# mean_time_to_happen= {
+	 mean_time_to_happen= {
 		days = 90
 	}
 	
@@ -8781,7 +8780,7 @@ country_event = {
 		is_subject = no
 	}
 	
-	# mean_time_to_happen= {
+	 mean_time_to_happen= {
 		days = 90
 	}
 	

@@ -948,8 +948,8 @@ country_event = {
 	}
 	
 	# mean_time_to_happen= {
-		days = 1
-	}
+	#	days = 1
+	#}
 	
 	immediate = { 
 		hidden_effect = {
@@ -1053,8 +1053,8 @@ country_event = {
 	}
 	
 	# mean_time_to_happen= {
-		days = 1
-	}
+	#	days = 1
+	#}
 	
 	option = {
 		ai_chance = {
@@ -1148,8 +1148,8 @@ country_event = {
 	}
 	
 	# mean_time_to_happen= {
-		days = 1
-	}
+	#	days = 1
+	#}
 	
 	option = {
 		ai_chance = {
@@ -1214,8 +1214,8 @@ country_event = {
 	}
 	
 	# mean_time_to_happen= {
-		days = 1
-	}
+	#	days = 1
+	#}
 	
 	immediate = { 
 		hidden_effect = {
@@ -1406,8 +1406,8 @@ country_event = {
 	}
 	
 	# mean_time_to_happen= {
-		days = 50
-	}
+	#	days = 50
+	#}
 	
 	immediate = {
 		hidden_effect = {
@@ -1459,8 +1459,8 @@ country_event = {
 	}
 	
 	# mean_time_to_happen= {
-		days = 5
-	}
+	#	days = 5
+	#}
 	
 	immediate = {
 		if = {
@@ -1506,7 +1506,7 @@ country_event = {
 	desc = kmt.43.d
 	picture = GFX_report_event_dead_soldiers
 	
-	# mean_time_to_happen= {
+	 mean_time_to_happen= {
 		days = 73
 	}
 	
@@ -10829,7 +10829,7 @@ country_event = {
 		}
 	}
 	
-	# mean_time_to_happen= { days = 60 }
+	# { days = 60 }
 	
 	fire_only_once = yes
 	
@@ -10983,7 +10983,7 @@ country_event = {
 		has_defensive_war_with = JAP
 	}
 	
-	# mean_time_to_happen= { days = 125 }
+	 mean_time_to_happen= { days = 125 }
 	
 	fire_only_once = yes
 	
@@ -17942,7 +17942,7 @@ country_event = {
 		}
 	}
 	
-	# mean_time_to_happen= { days = 60 }
+	 mean_time_to_happen= { days = 60 }
 	
 	immediate = { 
 		set_country_flag = KMT_PRC_bandits_fired
@@ -21095,7 +21095,7 @@ country_event = {
 		}
 	}
 	
-	# mean_time_to_happen= { 
+	 mean_time_to_happen= { 
 		days = 50
 		modifier = {
 			factor = 0.2
@@ -21731,7 +21731,7 @@ country_event = {
 		}
 	}
 	
-	# mean_time_to_happen= { 
+	mean_time_to_happen= { 
 		days = 5
 		modifier = {
 			factor = 20
